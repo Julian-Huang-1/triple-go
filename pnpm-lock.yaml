@@ -73,6 +73,12 @@ importers:
         specifier: ^5.1.4
         version: 5.1.4(typescript@5.7.2)(vite@5.4.11(@types/node@20.17.10))
 
+  packages/ui:
+    dependencies:
+      lodash:
+        specifier: ^4.17.21
+        version: 4.17.21
+
   packages/utils:
     dependencies:
       lodash:
