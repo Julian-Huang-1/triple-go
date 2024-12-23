@@ -1,7 +1,13 @@
 # @triple-go/utils
 
-## 3.0.0
+## 1.0.1
+
+### Patch Changes
+
+- 测试 patch
+
+## 1.0.0
 
 ### Major Changes
 
-- 增加了一个 add 函数
+123
