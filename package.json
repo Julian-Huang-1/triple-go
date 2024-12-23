@@ -7,7 +7,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "private": true,
+  "private": false,
   "devDependencies": {
     "@changesets/cli": "^2.27.11",
     "typescript": "^5.7.2"
