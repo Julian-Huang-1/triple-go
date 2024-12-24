@@ -14,5 +14,8 @@
   "devDependencies": {
     "@changesets/cli": "^2.27.11",
     "typescript": "^5.7.2"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
