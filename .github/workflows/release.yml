@@ -8,6 +8,10 @@ on:
 defaults:
   run:
     shell: bash
+    
+permissions:
+  contents: write  # 允许推送代码
+
 
 jobs:
   changelog:
