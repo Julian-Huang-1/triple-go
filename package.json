@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "changeset": "changeset",
+    "version": "changeset version && pnpm install"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
