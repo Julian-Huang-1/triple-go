@@ -12,7 +12,7 @@ defaults:
 jobs:
   changelog:
     name: Changelog PR and Release
-    run-on: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       # 拉main分支代码
       - name: git pull branch main
